@@ -1,0 +1,15 @@
+{
+  "name": "ionic-cortex-6866",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 6781,
+    "createdAt": "2026-09-11T13:16:01.736Z"
+  }
+}
